@@ -1,0 +1,13 @@
+{
+	"name": "kloomba/partnership",
+	"license": "BSD-3-Clause",
+	"authors": [{
+		"name": "Skinny Hunter",
+		"email": "skinny.hunter@gmail.com"
+	}],
+	"autoload": {
+		"psr-4": {
+			"kloomba\\partnership\\": "src/"
+		}
+	}
+}
